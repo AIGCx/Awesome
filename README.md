@@ -42,6 +42,8 @@ AIGCxChina的成员来自全国各地，已在温州、北京、上海、香港�
 
 ### 视频生成
 
+- [SadTalker](https://github.com/OpenTalker/SadTalker) ~ 根据图片或是视频, 配套指定音频, 自动生成视频;
+
 ### 语言生成
 
 ### 三维生成
