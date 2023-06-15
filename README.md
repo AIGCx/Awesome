@@ -11,6 +11,10 @@ AIGCxChina的成员来自全国各地，已在温州、北京、上海、香港�
 优先为联盟成员提供服务, 加速各种 AIGC 项目/技术/想法/... 的落地;
 提高联盟成员幸福指数, 加速联盟发展;
 
+## 参与
+开放参加, 通过 GitHub 自由提交增补,
+暂行流程: [增补流程](https://github.com/AIGCx/Awesome/wiki#增补流程)
+
 ## 索引
 
 - [AIGCxAwesome](#Awesome)
