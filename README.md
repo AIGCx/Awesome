@@ -43,7 +43,7 @@ AIGCxChina的成员来自全国各地，已在温州、北京、上海、香港�
 ### 视频生成
 
 - 📩:🛠️::🇨🇳 [北冥星眸复刻人开放平台](https://avatar.galaxyeye-tech.com/) ~ 致力于通过AI技术赋予虚拟人物灵魂，让普通人也能在5分钟内为虚拟人物塑造个性鲜明的人格。
-- 📩:🇨🇳: [SadTalker](https://github.com/OpenTalker/SadTalker) ~ 根据图片或是视频, 配套指定音频, 自动生成视频;
+- 💡:🇨🇳: [SadTalker](https://github.com/OpenTalker/SadTalker) ~ 根据图片或是视频, 配套指定音频, 自动生成视频;
 
 ### 语言生成
 
