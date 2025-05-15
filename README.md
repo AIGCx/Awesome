@@ -1,10 +1,10 @@
-# Awesome
-AIGCxAwesome 中国AIGC产业联盟资源大全
+<img width="673" alt="image" src="https://github.com/user-attachments/assets/7d49c239-a1d3-40a0-915a-83e74ccea9b4" /># Awesome
+AIGCxAwesome 🚀 AI赋能千行百业²⁰²⁵资源大全
 
 ## 背景
-中国AIGC产业联盟（以下简称AIGCxChina）是一个非盈利的全国性公益平台，
+🚀 AI赋能千行百业²⁰²⁵（以下简称 AI4100）是一个非盈利的全国性公益平台，
 致力于在中国推动产业更好对接AIGC技术，推动社会更好普及AIGC技能，是专家和媒体公认的国内第一个AIGC领域的全国性专业社群。
-AIGCxChina的成员来自全国各地，已在温州、北京、上海、香港等地建立20个城市级社群，欢迎高能而温暖的青年加入我们。
+AI4100 的成员来自全国各地，已在温州、北京、上海、香港等地建立20个城市级社群，欢迎高能而温暖的青年加入我们。
 
 ## 目标
 索引联盟内外所有 AIGC 相关资源,
