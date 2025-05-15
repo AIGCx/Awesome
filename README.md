@@ -1,4 +1,4 @@
-<img width="673" alt="image" src="https://github.com/user-attachments/assets/7d49c239-a1d3-40a0-915a-83e74ccea9b4" /># Awesome
+# Awesome
 AIGCxAwesome 🚀 AI赋能千行百业²⁰²⁵资源大全
 
 ## 背景
